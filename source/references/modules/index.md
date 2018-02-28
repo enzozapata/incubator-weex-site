@@ -16,5 +16,5 @@ version: 2.1
 - [storage](./storage.html)
 - [picker](./picker.html)
 - [webview](./webview.html)
-- [WebSocket](./WebSocket.html)
+- [WebSocket](./websocket.html)
 - [globalEvent](./globalEvent.html)
